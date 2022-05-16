@@ -7,6 +7,23 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.row .col-sm-12 .partners {
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+    color: black;
+}
+
+.row .col-sm-12 .partners ul li a {
+    color: #000000;
+}
+
+.partners ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
 .citation {
     font-style: italic  ;
 }
@@ -686,7 +703,7 @@ a {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -714,7 +731,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
 }
 
@@ -784,16 +801,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C !important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #79241c !important;
     color: #FFFFFF!important;
 }
 
