@@ -24,6 +24,10 @@ body {
     justify-content: space-evenly;
 }
 
+.contact-text {
+    color: #000000;
+}
+
 .citation {
     font-style: italic  ;
 }
