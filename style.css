@@ -28,6 +28,11 @@ body {
     justify-content: space-evenly;
 }
 
+.partners p {
+    color: #000000!important;
+    font-size: 26px;
+}
+
 .contact-text {
     color: #000000;
 }
@@ -37,7 +42,7 @@ body {
 }
 
 .title {
-    width: 500px;
+    max-width: 500px;
     margin: auto;
 }
 
@@ -1071,6 +1076,15 @@ h4 {
     .blocsapp-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .partners ul {
+        display: block;
+        list-style-type: none;
+        justify-content: space-evenly;
+        padding: inherit;
+    }
+    #bloc-4-portfolio img {
+        margin: auto;
     }
 }
 
