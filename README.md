@@ -2,7 +2,7 @@
 
 ## Projet 4 du parcours Développeur Web d'Openclassrooms.
 
-![Image du site](img/sample.jpg)
+![Image du site](img/sample.png)
 
 ## Objectifs
 
