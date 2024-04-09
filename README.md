@@ -2,6 +2,8 @@
 
 ## Projet 4 du parcours Développeur Web d'Openclassrooms.
 
+![Image du site](img/sample.jpg)
+
 ## Objectifs
 
 - Optimiser un site web existant
@@ -20,4 +22,4 @@
 
 ## GitHub Pages
 
-Site accessible à cette adresse :  mister2dev.github.io/FabienD_4_19042022/ 
+Site accessible à cette adresse : [mister2dev.github.io/FabienD_4_19042022/](https://mister2dev.github.io/FabienD_4_19042022/ "https://mister2dev.github.io/FabienD_4_19042022/")
